@@ -1,0 +1,34 @@
+{
+  "name": "food-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slsteven/food_service.git"
+  },
+  "author": "steven lam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slsteven/food_service/issues"
+  },
+  "homepage": "https://github.com/slsteven/food_service#readme",
+  "dependencies": {
+    "autoprefixer": "^6.3.6",
+    "express": "^4.13.4",
+    "grunt": "^1.0.1",
+    "grunt-postcss": "^0.8.0",
+    "path": "^0.12.7",
+    "watch": "^0.17.1"
+  },
+  "devDependencies": {
+    "autoprefixer-core": "^6.0.1",
+    "grunt": "^1.0.1",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-contrib-jshint": "^1.0.0"
+  }
+}
